@@ -34,8 +34,7 @@
         "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
         "startDate": "2023-07-01",
         "endDate": "2023-08-01",
-        "summary": "Desarrollé una página web estática para una casa de repuestos, utilizando tecnologías como HTML, CSS y Bootstrap. La página proporciona información sobre
-         el negocio.",
+        "summary": "Desarrollé una página web estática para una casa de repuestos, utilizando tecnologías como HTML, CSS y Bootstrap. La página proporciona información sobre el negocio.",
         "highlights": [
           ""
         ]
@@ -46,8 +45,7 @@
         "url": "www.hrissan.com.ar",
         "startDate": "2024-01-01",
         "endDate": "null",
-        "summary": "Desarrollé una página web estática para una consultora de recursos humanos, utilizando tecnologías como HTML, CSS, Bootstrap y Javascript. La página proporciona información sobre la consultora
-        y formas de contacto.",
+        "summary": "Desarrollé una página web estática para una consultora de recursos humanos, utilizando tecnologías como HTML, CSS, Bootstrap y Javascript. La página proporciona información sobre la consultoray formas de contacto.",
         "highlights": [
           ""
         ]
@@ -81,22 +79,29 @@
         ]
       },
       {
-        "name": "JavaScript",
+        "name": "Bootstrap",
         "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
         ]
       },
       {
         "name": "Java",
-        "level": "Avanzado",
+        "level": "Intermedio",
         "keywords": [
           "Backend", "Java"
         ]
       },
       {
         "name": "MySQL",
-        "level": "Avanzado",
+        "level": "Básico",
         "keywords": [
           "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
         ]
