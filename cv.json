@@ -6,7 +6,7 @@
       "email": "giulibrumatti97@gmail.com",
       "phone": "+54 11 3577 2893",
       "url": "",
-      "summary": "Desarrollador de software en pleno crecimiento. Apasionado por la tecnología y aprendiendo un poco cada día.",
+      "summary": "Desarrollador de software en pleno crecimiento. Apasionado por la tecnología. Actualmente, estoy cursando la tecnicatura universitaria en programación y buscando dar mis primeros pasos en el mundo IT. Además, continúo aprendiendo de manera autodidacta a través de diversas plataformas.",
       "location": {
         "address": "",
         "postalCode": "1682",
@@ -33,92 +33,52 @@
         "position": "Programador Web",
         "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
         "startDate": "2023-07-01",
-        "endDate": "2023-08-01",
-        "summary": "Desarrollé una página web estática para una casa de repuestos, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era hacer una presentación del negocio y concentrar en un mismo sitio todos los métodos de contacto.",
-        "highlights": [
-          ""
-        ]
+        "endDate": null,
+        "summary": "Desarrollé una página web estática para una casa de repuestos, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era hacer una presentación del negocio y concentrar en un mismo sitio todos los métodos de contacto."
       },
       {
         "name": "HRissan",
         "position": "Programador Web",
-        "url": "www.hrissan.com.ar",
+        "url": "https://www.hrissan.com.ar",
         "startDate": "2024-01-01",
         "endDate": null,
-        "summary": "Desarrollé una página web estática para una consultora de recursos humanos, utilizando tecnologías como HTML, CSS, Bootstrap y Javascript. El objetivo era brindar información sobre su propuesta, propósito y la presentación de los CEO de la empresa. Además, brindar todos los medios de contacto",
-        "highlights": [
-          ""
-        ]
+        "summary": "Desarrollé una página web estática para una consultora de recursos humanos, utilizando tecnologías como HTML, CSS, Bootstrap y Javascript. El objetivo era brindar información sobre su propuesta, propósito y la presentación de los CEO de la empresa. Además, brindar todos los medios de contacto."
       }
     ],
     "education": [{
       "institution": "Universidad Nacional de Hurlingham",
       "url": "https://unahur.edu.ar",
       "area": "Tecnicatura en programación",
-      "studyType": "",
       "startDate": "2022-03-01",
-      "endDate": null,
-      "score": "",
-      "courses": [
-        ""
-      ]
+      "endDate": null
     }],
     "skills": [
       {
-        "name": "HTML",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
+        "name": "HTML"
       },
       {
-        "name": "CSS",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
+        "name": "CSS"
       },
       {
-        "name": "Bootstrap",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
+        "name": "Boostrap"
       },
       {
-        "name": "JavaScript",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
+        "name": "Astro"
       },
       {
-        "name": "Java",
-        "level": "Intermedio",
-        "keywords": [
-          "Backend", "Java"
-        ]
+        "name": "JavaScript"
       },
       {
-        "name": "MySQL",
-        "level": "Básico",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
+        "name": "Java"
       },
       {
-        "name": "Git",
-        "level": "Básico",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
+        "name": "MySQL"
       },
       {
-        "name": "GitHub",
-        "level": "Básico",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
+        "name": "Git"
+      },
+      {
+        "name": "GitHub"
       }
     ],
     "languages": [
@@ -126,5 +86,29 @@
         "language": "Spanish",
         "fluency": "Native speaker"
       }
-    ]
+    ],
+    "projects": [
+      {
+        "name": "Rombo del tejar",
+        "image": "/rombodeltejar.webp",
+        "isActive": true,
+        "description": "Landing Page",
+        "highlights": [
+          "HTML", "CSS", "Boostrap"
+        ],
+        "url": "https://rombodeltejar.vercel.app/"
+      },
+
+      {
+        "name": "HRissan",
+        "image": "/hrissan.webp",
+        "isActive": true,
+        "description": "Landing Page",
+        "highlights": [
+          "HTML", "CSS", "Boostrap", "JavaScript"
+        ],
+        "url": "https://www.hrissan.com.ar/"
+      }
+    ]  
   }
+
