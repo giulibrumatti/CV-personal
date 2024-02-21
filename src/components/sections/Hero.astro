@@ -14,6 +14,10 @@ const SOCIAL_ICONS: Record<string, any> = {
     GitHub,
     LinkedIn,
 }
+
+const linkedInInfo = profiles.find(({ network }) => network === "LinkedIn" )
+const linkedUrl = linkedInInfo?.url
+const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
@@ -25,7 +29,10 @@ const SOCIAL_ICONS: Record<string, any> = {
                 <WorldMap></WorldMap>
                 {city}, {region}
             </span>
-            <footer>
+            <footer class="print">
+              {printInfo}
+            </footer>
+            <footer class="no-print">
                 {
                     email && (
                         <a
@@ -41,8 +48,8 @@ const SOCIAL_ICONS: Record<string, any> = {
                 {
                     phone && (
                     <a
-                            href={`tel:${phone}`}
-                            title={`Llamar por teléfono a ${name} al número ${phone}`}
+                            href={`https://wa.me/${phone}`}
+                            title={`Escribir mensaje de WhatsApp a ${name} al número ${phone}`}
                             target="_blank"
                             rel="noopener noreferrer"
                     >
@@ -104,7 +111,7 @@ const SOCIAL_ICONS: Record<string, any> = {
   img {
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    width: 180px;
+    width: 150px;
     border-radius: 16px;
   }
 
@@ -118,6 +125,7 @@ const SOCIAL_ICONS: Record<string, any> = {
   }
 
   footer {
+    font-size: 0.65rem;
     color: #555;
     font-size: 0.65rem;
     display: flex;
