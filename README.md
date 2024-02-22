@@ -22,3 +22,7 @@ Este proyecto consiste en una página web personal que contiene información sob
 🚀 `CTRL + L`: Visita mi LinkedIn.
 
 🚀 `CTRL + G`: Explora mi repositorio de GitHub.
+
+## Deploy
+
+https://cv-gbrumatti-web.vercel.app/
