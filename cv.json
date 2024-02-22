@@ -49,9 +49,45 @@
       "institution": "Universidad Nacional de Hurlingham",
       "url": "https://unahur.edu.ar",
       "area": "Tecnicatura en programación",
-      "startDate": "2022-03-01",
-      "endDate": null
-    }],
+      "startDate": "2022",
+      "state": "En curso"
+    },
+    {
+      "institution": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/",
+      "area": "HTML y CSS desde cero",
+      "startDate": "2023",
+      "state": "Finalizado"
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/",
+      "area": "Frontend Developer",
+      "startDate": "2023",
+      "state": "Finalizado" 
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/",
+      "area": "Bootstrap",
+      "startDate": "2023",
+      "state": "Finalizado" 
+    },
+    {
+      "institution": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/",
+      "area": "Introducción a Git y GitHub",
+      "startDate": "2023",
+      "state": "Finalizado" 
+    },
+    {
+      "institution": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/",
+      "area": "Introducción a las bases de datos",
+      "startDate": "2023",
+      "state": "Finalizado" 
+    }
+    ],
     "skills": [
       {
         "name": "HTML"
