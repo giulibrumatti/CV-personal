@@ -86,6 +86,13 @@
       "area": "Introducción a las bases de datos",
       "startDate": "2023",
       "state": "Finalizado" 
+    },
+    {
+      "institution": "Educación IT",
+      "url": "https://www.educacionit.com/",
+      "area": "Tester QA",
+      "startDate": "2023",
+      "state": "Finalizado" 
     }
     ],
     "skills": [
@@ -121,6 +128,12 @@
       {
         "language": "Spanish",
         "fluency": "Native speaker"
+      },
+      {
+        "name": "Selenium"
+      },
+      {
+        "name": "JMeter"
       }
     ],
     "projects": [
