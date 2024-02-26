@@ -1,7 +1,7 @@
 ---
 import Section from '../Section.astro';
 
-import {  skills } from "@cv"
+import { skills } from "@cv";
 ---
 
 <Section title="Skills">
@@ -33,6 +33,12 @@ import {  skills } from "@cv"
         font-size: 0.8rem;
         font-weight: 500;
         padding: 0.2rem 0.6rem;
+    }
+
+    @media print {
+        li {
+            border: solid 1px #b2acac;
+        }
     }
 
     

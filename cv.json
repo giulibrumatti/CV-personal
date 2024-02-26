@@ -55,35 +55,14 @@
     {
       "institution": "TodoCode Academy",
       "url": "https://todocodeacademy.com/",
-      "area": "HTML y CSS desde cero",
+      "area": "HTML y CSS desde cero - Introducción a Git y GitHub - Introducción a las bases de datos",
       "startDate": "2023",
       "state": "Finalizado"
     },
     {
       "institution": "Platzi",
       "url": "https://platzi.com/",
-      "area": "Frontend Developer",
-      "startDate": "2023",
-      "state": "Finalizado" 
-    },
-    {
-      "institution": "Platzi",
-      "url": "https://platzi.com/",
-      "area": "Bootstrap",
-      "startDate": "2023",
-      "state": "Finalizado" 
-    },
-    {
-      "institution": "TodoCode Academy",
-      "url": "https://todocodeacademy.com/",
-      "area": "Introducción a Git y GitHub",
-      "startDate": "2023",
-      "state": "Finalizado" 
-    },
-    {
-      "institution": "TodoCode Academy",
-      "url": "https://todocodeacademy.com/",
-      "area": "Introducción a las bases de datos",
+      "area": "Frontend Developer - Bootstrap",
       "startDate": "2023",
       "state": "Finalizado" 
     },
