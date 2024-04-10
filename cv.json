@@ -29,21 +29,30 @@
     },
     "work": [
       {
-        "name": "Rombo del tejar",
+        "name": "Freelance - Rombo del tejar",
         "position": "Programador Web",
         "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
         "startDate": "2023-07-01",
         "endDate": null,
-        "summary": "Desarrollé una página web estática para una casa de repuestos, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era hacer una presentación del negocio y concentrar en un mismo sitio todos los métodos de contacto."
+        "summary": "Sitio web para una casa de repuestos de autos, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era hacer una presentación del negocio y brindar información de contacto."
       },
       {
-        "name": "HRissan",
+        "name": "Freelance - HRissan",
         "position": "Programador Web",
         "url": "https://www.hrissan.com.ar",
         "startDate": "2024-01-01",
         "endDate": null,
-        "summary": "Desarrollé una página web estática para una consultora de recursos humanos, utilizando tecnologías como HTML, CSS, Bootstrap y Javascript. El objetivo era brindar información sobre su propuesta, propósito y la presentación de los CEO de la empresa. Además, brindar todos los medios de contacto."
+        "summary": "Sitio web para una consultora de HR, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era brindar información sobre su propuesta, propósito y la presentación de los CEO de la empresa. Además, brindar información de contacto."
+      },
+      {
+        "name": "Freelance",
+        "position": "Programador Web",
+        "url": "https://grissohr-web.vercel.app/",
+        "startDate": "2024-01-01",
+        "endDate": null,
+        "summary": "Blog para influencer de HR. Sitio web desarrollado con ayuda de Astro principalmente."
       }
+
     ],
     "education": [{
       "institution": "Universidad Nacional de Hurlingham",
@@ -136,6 +145,16 @@
           "HTML", "CSS", "Boostrap", "JavaScript"
         ],
         "url": "https://www.hrissan.com.ar/"
+      },
+      {
+        "name": "Guido Risso",
+        "image": "",
+        "isActive": true,
+        "description": "Blog",
+        "highlights": [
+          "HTML", "CSS", "Tailwind", "JavaScript", "Astro"
+        ],
+        "url": "https://grissohr-web.vercel.app/"
       }
     ]  
   }
