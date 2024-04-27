@@ -8,9 +8,8 @@ import { work } from "@cv";
     <ul>
         {work.map(
             ({name, startDate, endDate, position, summary, url}) => {
-                const startYear = new Date(startDate).getFullYear()
                 const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual"
-                const years = `${startYear} - ${endYear}`
+                const years = `${startDate} - ${endYear}`
 
                 return (
                     <li>

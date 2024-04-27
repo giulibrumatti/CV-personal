@@ -6,7 +6,7 @@
       "email": "giulibrumatti97@gmail.com",
       "phone": "541135772893",
       "url": "",
-      "summary": "Desarrollador de software en pleno crecimiento. Apasionado por la tecnología. Actualmente, estoy cursando la tecnicatura universitaria en programación y buscando dar mis primeros pasos en el mundo IT. Además, continúo aprendiendo de manera autodidacta a través de distintas plataformas.",
+      "summary": "Soy Giuli y actualmente estoy estudiando la Tecnicatura Universitaria en Programación en la UNAHUR. Formo parte del equipo de e-commerce de un negocio de autopartes. Además, realizo proyectos web de manera freelance, aplicando muchas de las habilidades que voy adquiriendo de manera autodidacta. Estoy interesado en especializarme en Java, ya que lo utilizo constantemente en la universidad y he aprendido a quererlo.",
       "location": {
         "address": "",
         "postalCode": "1682",
@@ -29,30 +29,29 @@
     },
     "work": [
       {
-        "name": "Freelance - Rombo del tejar",
+        "name": "Freelance - Influencer HR",
         "position": "Programador Web",
-        "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
-        "startDate": "2023-07-01",
+        "url": "https://guidorissohr-web.vercel.app/",
+        "startDate": "2024",
         "endDate": null,
-        "summary": "Sitio web para una casa de repuestos de autos, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era hacer una presentación del negocio y brindar información de contacto."
+        "summary": "Desarrollé un sitio web personalizado para un influencer de recursos humanos, que incluye una sección para visualizar sus videos y artículos publicados en LinkedIn. El proyecto involucró la implementación de un diseño atractivo y funcional utilizando el framework Astro, HTML, CSS y JavaScript, con el objetivo de mejorar la presencia en línea del influencer y facilitar el acceso a su contenido para su audiencia."
+      },
+      {
+        "name": "Rombo del tejar",
+        "position": "Responsable E-commerce MercadoLibre - Programador Web",
+        "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
+        "startDate": "2023",
+        "endDate": null,
+        "summary": "Como Responsable E-commerce, gestiono diversas actividades como la creación y edición de publicaciones, la gestión post-venta, el control de inventario y stock, la resolución de conflictos, la atención y gestión de redes sociales, el diseño y edición de publicaciones en Instagram, así como la atención al cliente. Además, desarrollé una landing page estática para promocionar el negocio. Utilicé tecnologías web como HTML, CSS y Bootstrap para la estructura y diseño, y JavaScript para añadir interactividad. El proyecto consistió en crear una página web simple pero atractiva el cual me permitio poner en práctica mis habilidades."
       },
       {
         "name": "Freelance - HRissan",
         "position": "Programador Web",
         "url": "https://www.hrissan.com.ar",
-        "startDate": "2024-01-01",
+        "startDate": "2024",
         "endDate": null,
-        "summary": "Sitio web para una consultora de HR, utilizando tecnologías como HTML, CSS y Bootstrap. El objetivo era brindar información sobre su propuesta, propósito y la presentación de los CEO de la empresa. Además, brindar información de contacto."
-      },
-      {
-        "name": "Freelance",
-        "position": "Programador Web",
-        "url": "https://grissohr-web.vercel.app/",
-        "startDate": "2024-01-01",
-        "endDate": null,
-        "summary": "Blog para influencer de HR. Sitio web desarrollado con ayuda de Astro principalmente."
+        "summary": "Desarrollé una landing page estática para promocionar una consultora de recuersos humanos utilizando tecnologías web como HTML, CSS y Bootstrap para la estructura y diseño, y JavaScript para añadir interactividad. El proyecto consistió en crear una página web simple pero atractiva."
       }
-
     ],
     "education": [{
       "institution": "Universidad Nacional de Hurlingham",
@@ -63,21 +62,35 @@
     },
     {
       "institution": "TodoCode Academy",
-      "url": "https://todocodeacademy.com/",
-      "area": "HTML y CSS desde cero - Introducción a Git y GitHub - Introducción a las bases de datos",
+      "url": "https://todocodeacademy.com/certificate/x28/",
+      "area": "Programación Orientada Objetos con Java",
+      "startDate": "2024",
+      "state": "Finalizado"
+    },
+    {
+      "institution": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/cau/",
+      "area": "Introducción a las bases de datos - MySQL",
       "startDate": "2023",
       "state": "Finalizado"
     },
     {
       "institution": "Platzi",
-      "url": "https://platzi.com/",
-      "area": "Frontend Developer - Bootstrap",
+      "url": "https://platzi.com/p/giulibrumatti97/curso/2467-frontend-developer/diploma/detalle/",
+      "area": "Frontend Developer",
+      "startDate": "2023",
+      "state": "Finalizado" 
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/p/giulibrumatti97/curso/1331-bootstrap/diploma/detalle/",
+      "area": "Bootstrap",
       "startDate": "2023",
       "state": "Finalizado" 
     },
     {
       "institution": "Educación IT",
-      "url": "https://www.educacionit.com/",
+      "url": "https://www.educacionit.com/perfil/giuliano-brumatti-969533/certificado/68572",
       "area": "Tester QA",
       "startDate": "2023",
       "state": "Finalizado" 
@@ -116,6 +129,15 @@
       },
       {
         "name": "JMeter"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Tailwind"
+      },
+      {
+        "name": "JSON"
       }
     ],
     "languages": [
@@ -150,11 +172,11 @@
         "name": "Guido Risso",
         "image": "",
         "isActive": true,
-        "description": "Blog",
+        "description": "Sitio web personal",
         "highlights": [
-          "HTML", "CSS", "Tailwind", "JavaScript", "Astro"
+          "HTML", "CSS", "Tailwind", "JavaScript", "Astro", "JSON"
         ],
-        "url": "https://grissohr-web.vercel.app/"
+        "url": "https://guidorissohr-web.vercel.app/"
       }
     ]  
   }

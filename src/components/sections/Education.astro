@@ -7,7 +7,7 @@ import { education } from "@cv"
 <Section title="Educación">
   <ul>
     {
-      education.map(({ institution, startDate, state, area }) => {
+      education.map(({ institution, startDate, state, area, url }) => {
         const years = `${startDate} - ${state}`
 
         return (
@@ -22,7 +22,7 @@ import { education } from "@cv"
               </header>
 
               <footer>
-                <p>{area}</p>
+              <a class="underline hover:decoration-2" href={url}><p>{area}</p></a>
               </footer>
             </article>
           </li>
@@ -66,6 +66,10 @@ import { education } from "@cv"
   @media print {
     ul {
       gap: 10px;
+    }
+
+    footer a{
+      text-decoration: none;
     }
   }
 </style>
