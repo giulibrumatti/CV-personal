@@ -4,7 +4,7 @@ import Section from "../Section.astro"
 import { education } from "@cv"
 ---
 
-<Section title="Educación">
+<Section class="print-edu" title="Educación">
   <ul>
     {
       education.map(({ institution, startDate, state, area, url }) => {
@@ -65,9 +65,8 @@ import { education } from "@cv"
 
   @media print {
     ul {
-      gap: 10px;
+      gap: 20px;
     }
-
     footer a{
       text-decoration: none;
     }
