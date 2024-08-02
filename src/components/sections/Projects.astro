@@ -1,7 +1,8 @@
 ---
 import { projects } from "@cv";
 import Section from '../Section.astro';
-
+import ProjectsPrint from "./ProjectsPrint.astro";
+import ProjectsPrint2 from "./ProjectsPrint.astro";
 ---
 <div class="no-print">
 <Section title="Proyectos">
@@ -13,7 +14,7 @@ import Section from '../Section.astro';
                         <article>
                             <header>
                                 <h3>
-                                    <a href={url} title={`Ver el proyecto ${name}`}>
+                                    <a target="_blank" href={url} title={`Ver el proyecto ${name}`}>
                                         {name}
                                     </a>
                                     {
@@ -35,6 +36,7 @@ import Section from '../Section.astro';
     </ul>
 </Section>
 </div>
+<ProjectsPrint></ProjectsPrint>
 
 <style>
     ul {

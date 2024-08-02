@@ -6,7 +6,7 @@
       "email": "giulibrumatti97@gmail.com",
       "phone": "541135772893",
       "url": "",
-      "summary": "Soy Giuli y actualmente estoy estudiando la Tecnicatura Universitaria en Programación en la UNAHUR. Formo parte del equipo de e-commerce de un negocio de autopartes. Además, realizo proyectos web de manera freelance, aplicando muchas de las habilidades que voy adquiriendo de manera autodidacta. Estoy interesado en especializarme en Java, ya que lo utilizo constantemente en la universidad y he aprendido a quererlo.",
+      "summary": "Soy Giuli y actualmente estoy cursando la Tecnicatura Universitaria en Programación en la UNAHUR. Me desempeño como parte del equipo de e-commerce de un negocio de autopartes, donde aplico mis habilidades técnicas y colaborativas para mejorar la experiencia del cliente y optimizar procesos. Además, trabajo de manera freelance en proyectos web, lo que me permite aplicar y expandir mis conocimientos adquiridos de forma autodidacta. Estoy perfeccionándome en el desarrollo con Java, enfocándome en el Backend, y desarrollando proyectos utilizando tecnologías como JPA, JSP y MySQL. Un ejemplo de esto es un reciente proyecto que he realizado, que integra estas tecnologías.",
       "location": {
         "address": "",
         "postalCode": "1682",
@@ -29,9 +29,9 @@
     },
     "work": [
       {
-        "name": "Freelance - Influencer HR",
+        "name": "HRissan",
         "position": "Programador Web",
-        "url": "https://guidorissohr-web.vercel.app/",
+        "url": "www.guidorisso.com.ar",
         "startDate": "2024",
         "endDate": null,
         "summary": "Desarrollé un sitio web personalizado para un influencer de recursos humanos, que incluye una sección para visualizar sus videos y artículos publicados en LinkedIn. El proyecto involucró la implementación de un diseño atractivo y funcional utilizando el framework Astro, HTML, CSS y JavaScript, con el objetivo de mejorar la presencia en línea del influencer y facilitar el acceso a su contenido para su audiencia."
@@ -43,33 +43,25 @@
         "startDate": "2023",
         "endDate": null,
         "summary": "Como Responsable E-commerce, gestiono diversas actividades como la creación y edición de publicaciones, la gestión post-venta, el control de inventario y stock, la resolución de conflictos, la atención y gestión de redes sociales, el diseño y edición de publicaciones en Instagram, así como la atención al cliente. Además, desarrollé una landing page estática para promocionar el negocio. Utilicé tecnologías web como HTML, CSS y Bootstrap para la estructura y diseño, y JavaScript para añadir interactividad. El proyecto consistió en crear una página web simple pero atractiva el cual me permitio poner en práctica mis habilidades."
-      },
-      {
-        "name": "Freelance - HRissan",
-        "position": "Programador Web",
-        "url": "https://www.hrissan.com.ar",
-        "startDate": "2024",
-        "endDate": null,
-        "summary": "Desarrollé una landing page estática para promocionar una consultora de recuersos humanos utilizando tecnologías web como HTML, CSS y Bootstrap para la estructura y diseño, y JavaScript para añadir interactividad. El proyecto consistió en crear una página web simple pero atractiva."
       }
     ],
     "education": [{
       "institution": "Universidad Nacional de Hurlingham",
-      "url": "https://unahur.edu.ar",
+      "url": "https://unahur.edu.ar/wp-content/uploads/2023/04/Tecnicatura-Universitaria-en-Programacion-1.pdf",
       "area": "Tecnicatura en programación",
       "startDate": "2022",
       "state": "En curso"
     },
     {
       "institution": "TodoCode Academy",
-      "url": "https://todocodeacademy.com/certificate/x28/",
+      "url": "https://drive.google.com/file/d/1vIfFrF0OMnxoiDtdcR8QwIAAA3FTzvgZ/view?usp=sharing",
       "area": "Programación Orientada Objetos con Java",
       "startDate": "2024",
       "state": "Finalizado"
     },
     {
       "institution": "TodoCode Academy",
-      "url": "https://todocodeacademy.com/certificate/cau/",
+      "url": "https://drive.google.com/file/d/1S5Dw1ff0OO39n0zEsun2QsC33iapGhr8/view?usp=sharing",
       "area": "Introducción a las bases de datos - MySQL",
       "startDate": "2023",
       "state": "Finalizado"
@@ -78,13 +70,6 @@
       "institution": "Platzi",
       "url": "https://platzi.com/p/giulibrumatti97/curso/2467-frontend-developer/diploma/detalle/",
       "area": "Frontend Developer",
-      "startDate": "2023",
-      "state": "Finalizado" 
-    },
-    {
-      "institution": "Platzi",
-      "url": "https://platzi.com/p/giulibrumatti97/curso/1331-bootstrap/diploma/detalle/",
-      "area": "Bootstrap",
       "startDate": "2023",
       "state": "Finalizado" 
     },
@@ -113,7 +98,7 @@
         "name": "JavaScript"
       },
       {
-        "name": "Java"
+        "name": "Java (JSP-JPA)"
       },
       {
         "name": "JUnit"
@@ -126,12 +111,6 @@
       },
       {
         "name": "GitHub"
-      },
-      {
-        "name": "Selenium"
-      },
-      {
-        "name": "JMeter"
       },
       {
         "name": "Python"
@@ -150,6 +129,26 @@
       }
     ],
     "projects": [
+      {
+        "name": "Consultorio Odontológico",
+        "image": "",
+        "isActive": true,
+        "description": "Aplicación",
+        "highlights": [
+          "Java JSP - JPA", "Servlets", "MySQL", "Maven", "Apache Tomcat", "CSS", "Boostrap"
+        ],
+        "url": "https://github.com/giulibrumatti/consultorioodontologico"
+      },
+      {
+        "name": "Guido Risso",
+        "image": "",
+        "isActive": true,
+        "description": "Sitio web personal",
+        "highlights": [
+          "HTML", "CSS", "Tailwind", "JavaScript", "Astro", "JSON"
+        ],
+        "url": "https://guidorissohr-web.vercel.app/"
+      },
       {
         "name": "Rombo del tejar",
         "image": "/rombodeltejar.webp",
@@ -170,16 +169,6 @@
           "HTML", "CSS", "Boostrap", "JavaScript"
         ],
         "url": "https://www.hrissan.com.ar/"
-      },
-      {
-        "name": "Guido Risso",
-        "image": "",
-        "isActive": true,
-        "description": "Sitio web personal",
-        "highlights": [
-          "HTML", "CSS", "Tailwind", "JavaScript", "Astro", "JSON"
-        ],
-        "url": "https://guidorissohr-web.vercel.app/"
       }
     ]  
   }
