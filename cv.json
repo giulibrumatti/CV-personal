@@ -6,7 +6,7 @@
       "email": "giulibrumatti97@gmail.com",
       "phone": "541135772893",
       "url": "",
-      "summary": "Soy Giuli y actualmente estoy cursando la Tecnicatura Universitaria en Programación en la UNAHUR. Me desempeño como parte del equipo de e-commerce de un negocio de autopartes, donde aplico mis habilidades técnicas y colaborativas para mejorar la experiencia del cliente y optimizar procesos. Además, trabajo de manera freelance en proyectos web, lo que me permite aplicar y expandir mis conocimientos adquiridos de forma autodidacta. Estoy perfeccionándome en el desarrollo con Java, enfocándome en el Backend, y desarrollando proyectos utilizando tecnologías como JPA, JSP y MySQL. Un ejemplo de esto es un reciente proyecto que he realizado, que integra estas tecnologías.",
+      "summary": "Soy Giuli y actualmente estoy cursando el segundo año de la Tecnicatura en programación en la Universidad Nacional de Hurlingham. Formo parte del equipo de e-commerce de un negocio de autopartes, donde aplico habilidades técnicas y colaborativas para mejorar procesos. También desarrollo proyectos web freelance con el framework Astro, y continúo especializándome en Java de forma autodidacta.",
       "location": {
         "address": "",
         "postalCode": "1682",
@@ -29,19 +29,27 @@
     },
     "work": [
       {
-        "name": "Proyecto Personal",
-        "position": "Desarrollador Java",
-        "url": "https://github.com/giulibrumatti/consultorioodontologico",
-        "startDate": "Julio 2024",
-        "endDate": "Agosto 2024",
-        "summary": "Implementación de un sistema CRUD completo para la administración de pacientes, odontólogos y turnos en un consultorio odontológico. Funcionalidades clave incluyen la gestión eficiente de pacientes, control de horarios de odontólogos y manejo de turnos (programación, cancelación y reprogramación). Tecnologías utilizadas: Java JSP, JPA, MySQL, HTML, CSS, Bootstrap, Apache Tomcat"
+        "name": "Proyecto Personal - App para Gestión de Billeteras y Transacciones",
+        "position": "Desarrollador Java Full Stack",
+        "url": "https://github.com/giulibrumatti/controldebilleteras",
+        "startDate": "Agosto 2024",
+        "endDate": "",
+        "summary": "Desarrollé un sistema integral para la gestión de turnos, pacientes y profesionales de la salud. Implementé un CRUD completo, optimizando la eficiencia en la administración de datos médicos. Tecnologías: Java JSP, JPA, MySQL, HTML, CSS, Bootstrap, Apache Tomcat."
       },
       {
-        "name": "HRissan",
+        "name": "Proyecto Personal - App para Consultorio Odontológico",
+        "position": "Desarrollador Java Full Stack",
+        "url": "https://github.com/giulibrumatti/consultorioodontologico",
+        "startDate": "Julio 2024",
+        "endDate": "",
+        "summary": "Desarrollé un sistema integral para la gestión de turnos, pacientes y profesionales de la salud. Implementé un CRUD completo, optimizando la eficiencia en la administración de datos médicos. Tecnologías: Java JSP, JPA, MySQL, HTML, CSS, Bootstrap, Apache Tomcat."
+      },
+      {
+        "name": "Freelance",
         "position": "Desarrollador Web",
         "url": "www.guidorisso.com.ar",
-        "startDate": "Mayo 2024",
-        "endDate": "Actual",
+        "startDate": "Abril 2024",
+        "endDate": "",
         "summary": "Desarrollé un sitio web personalizado para un influencer de recursos humanos, que incluye una sección para visualizar sus videos y artículos publicados en LinkedIn. El proyecto involucró la implementación de un diseño atractivo y funcional utilizando el framework Astro, HTML, CSS y JavaScript, con el objetivo de mejorar la presencia en línea del influencer y facilitar el acceso a su contenido para su audiencia."
       },
       {
@@ -50,7 +58,7 @@
         "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
         "startDate": "Agosto 2022",
         "endDate": "Actual",
-        "summary": "Como Responsable E-commerce, gestiono diversas actividades como la creación y edición de publicaciones, la gestión post-venta, el control de inventario y stock, la resolución de conflictos, la atención y gestión de redes sociales, el diseño y edición de publicaciones en Instagram, así como la atención al cliente. Además, desarrollé una landing page estática para promocionar el negocio. Utilicé tecnologías web como HTML, CSS y Bootstrap para la estructura y diseño, y JavaScript para añadir interactividad. El proyecto consistió en crear una página web simple pero atractiva el cual me permitio poner en práctica mis habilidades."
+        "summary": "Lideré la creación y optimización de publicaciones en plataformas de e-commerce, aumentando la visibilidad y ventas del negocio. Gestioné de manera integral la atención al cliente y post-venta utilizando RealTrends, asegurando la satisfacción del cliente. Supervisé la facturación y la administración con Boxer Gestión, manteniendo un control riguroso de las finanzas. Resolví conflictos con clientes, diseñé contenido visual atractivo para publicaciones y reels en redes sociales. Implementé y monitoreé campañas publicitarias en MercadoAds, maximizando el retorno de inversión en publicidad. Desarrollador Web: Creé una landing page funcional y moderna para mejorar la presencia online del negocio. Tecnologías: HTML, CSS, Bootstrap, JavaScript."
       }
     ],
     "education": [{
