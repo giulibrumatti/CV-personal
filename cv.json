@@ -2,11 +2,11 @@
     "basics": {
       "name": "Giuliano Nicolas Brumatti",
       "label": "Desarrollador Java",
-      "image": "/imggb.webp",
+      "image": "/logo.png",
       "email": "giulibrumatti97@gmail.com",
       "phone": "541135772893",
       "url": "",
-      "summary": "Soy Giuli y actualmente estoy cursando el segundo año de la Tecnicatura en programación en la Universidad Nacional de Hurlingham. Formo parte del equipo de e-commerce de un negocio de autopartes, donde aplico habilidades técnicas y colaborativas para mejorar procesos. También desarrollo proyectos web freelance con el framework Astro, y continúo especializándome en Java de forma autodidacta.",
+      "summary": "Soy Giuli y actualmente estoy cursando la Tecnicatura en programación en la Universidad Nacional de Hurlingham. Formo parte del equipo de e-commerce de un negocio de autopartes, donde aplico habilidades técnicas y colaborativas para mejorar procesos. También desarrollo proyectos web freelance con el framework Astro, y continúo especializándome en Java de forma autodidacta.",
       "location": {
         "address": "",
         "postalCode": "1682",
