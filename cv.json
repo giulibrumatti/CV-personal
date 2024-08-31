@@ -29,20 +29,12 @@
     },
     "work": [
       {
-        "name": "Proyecto Personal - App para Gestión de Billeteras y Transacciones",
+        "name": "Proyecto Personal - App para Gestión de Billeteras y Transacciones, y para Consultorio Odontológico",
         "position": "Desarrollador Java Full Stack",
-        "url": "https://github.com/giulibrumatti/controldebilleteras",
+        "url": "",
         "startDate": "Agosto 2024",
         "endDate": "",
-        "summary": "Desarrollé un sistema integral para la gestión de turnos, pacientes y profesionales de la salud. Implementé un CRUD completo, optimizando la eficiencia en la administración de datos médicos. Tecnologías: Java JSP, JPA, MySQL, HTML, CSS, Bootstrap, Apache Tomcat."
-      },
-      {
-        "name": "Proyecto Personal - App para Consultorio Odontológico",
-        "position": "Desarrollador Java Full Stack",
-        "url": "https://github.com/giulibrumatti/consultorioodontologico",
-        "startDate": "Julio 2024",
-        "endDate": "",
-        "summary": "Desarrollé un sistema integral para la gestión de turnos, pacientes y profesionales de la salud. Implementé un CRUD completo, optimizando la eficiencia en la administración de datos médicos. Tecnologías: Java JSP, JPA, MySQL, HTML, CSS, Bootstrap, Apache Tomcat."
+        "summary": "Diseñé y desarrollé sistemas integrales para la gestión tanto de billeteras y transacciones financieras como de turnos, pacientes y profesionales de la salud en un consultorio odontológico. Implementé CRUD completos en ambos proyectos, optimizando la eficiencia en la administración de datos. Utilicé las siguientes tecnologías: HTML, CSS, Bootstrap, Java JSP, Java JPA, MySQL, Apache Tomcat."
       },
       {
         "name": "Freelance",
@@ -54,7 +46,7 @@
       },
       {
         "name": "Rombo del tejar",
-        "position": "Responsable E-commerce MercadoLibre - Desarrollador Web",
+        "position": "Coordinador E-commerce",
         "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
         "startDate": "Agosto 2022",
         "endDate": "Actual",
@@ -146,12 +138,22 @@
     ],
     "projects": [
       {
+        "name": "Gestion de Billeteras y Transacciones",
+        "image": "",
+        "isActive": true,
+        "description": "Aplicación",
+        "highlights": [
+          "Java JSP", "Annotations en JPA", "MySQL", "Maven", "Apache Tomcat", "HTML", "CSS", "Boostrap"
+        ],
+        "url": "https://github.com/giulibrumatti/controldebilleteras"
+      },
+      {
         "name": "Consultorio Odontológico",
         "image": "",
         "isActive": true,
         "description": "Aplicación",
         "highlights": [
-          "Java JSP - JPA", "Servlets", "MySQL", "Maven", "Apache Tomcat", "CSS", "Boostrap"
+          "Java JSP", "Annotations en JPA", "MySQL", "Maven", "Apache Tomcat", "HTML", "CSS", "Boostrap"
         ],
         "url": "https://github.com/giulibrumatti/consultorioodontologico"
       },
