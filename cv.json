@@ -1,59 +1,52 @@
 {
-    "basics": {
-      "name": "Giuliano Nicolas Brumatti",
-      "label": "Desarrollador Java",
-      "image": "/logo.png",
-      "email": "giulibrumatti97@gmail.com",
-      "phone": "541135772893",
-      "url": "",
-      "summary": "Soy Giuli y actualmente estoy cursando la Tecnicatura en programación en la Universidad Nacional de Hurlingham. Formó parte del equipo de e-commerce de un negocio de autopartes, donde aplicó habilidades técnicas y colaborativas para mejorar procesos. También desarrollo proyectos web freelance con el framework Astro, y continúo especializándome en Java de forma autodidacta.",
-      "location": {
-        "address": "",
-        "postalCode": "1682",
-        "city": "Villa Bosch",
-        "countryCode": "AR",
-        "region": "Argentina"
-      },
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "Giuliano Nicolas Brumatti",
-          "url": "https://www.linkedin.com/in/giuliano-brumatti-820295187/"
-        },
-        {
-          "network": "GitHub",
-          "username": "giulibrumatti",
-          "url": "https://github.com/giulibrumatti"
-        }
-      ]
+  "basics": {
+    "name": "Giuliano Nicolas Brumatti",
+    "label": "Software Developer",
+    "image": "/logo.png",
+    "email": "giulibrumatti97@gmail.com",
+    "phone": "541135772893",
+    "url": "",
+    "summary": "💻 Apasionado por la tecnología y en constante aprendizaje. Actualmente, me estoy formando en la Tecnicatura en Programación. Tengo conocimientos en Java y desarrollo web. Me motiva la resolución de problemas y la posibilidad de construir soluciones innovadoras a través del código. Creo que la clave del crecimiento profesional es la capacitación constante, por lo que siempre busco aprender nuevas tecnologías y aplicarlas en proyectos que me permitan desarrollar mis habilidades.",
+    "location": {
+      "address": "",
+      "postalCode": "1682",
+      "city": "Villa Bosch",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
-    "work": [
+    "profiles": [
       {
-        "name": "Proyectos Personales - Aplicaciones de Gestión (Billeteras y Consultorio Odontológico)",
-        "position": "Desarrollador Java Full Stack",
-        "url": "",
-        "startDate": "Agosto 2024",
-        "endDate": "",
-        "summary": "Diseñé y desarrollé sistemas integrales para la gestión tanto de billeteras y transacciones financieras como de turnos, pacientes y profesionales de la salud en un consultorio odontológico. Implementé CRUD completos en ambos proyectos, optimizando la eficiencia en la administración de datos. Utilicé las siguientes tecnologías: HTML, CSS, Bootstrap, Java JSP, Java JPA, MySQL, Apache Tomcat."
+        "network": "LinkedIn",
+        "username": "Giuliano Nicolas Brumatti",
+        "url": "https://www.linkedin.com/in/giuliano-brumatti-820295187/"
       },
       {
-        "name": "Freelance",
-        "position": "Desarrollador Web",
-        "url": "www.guidorisso.com.ar",
-        "startDate": "Abril 2024",
-        "endDate": "",
-        "summary": "Desarrollé un sitio web personalizado para un influencer de recursos humanos, que incluye una sección para visualizar sus videos y artículos publicados en LinkedIn. El proyecto involucró la implementación de un diseño atractivo y funcional utilizando el framework Astro, HTML, CSS y JavaScript, con el objetivo de mejorar la presencia en línea del influencer y facilitar el acceso a su contenido para su audiencia."
-      },
-      {
-        "name": "Rombo del tejar",
-        "position": "Coordinador E-commerce",
-        "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
-        "startDate": "Agosto 2022",
-        "endDate": " - Actual",
-        "summary": "Lideré la creación y optimización de publicaciones en plataformas de e-commerce, aumentando la visibilidad y ventas del negocio. Gestioné de manera integral la atención al cliente y post-venta utilizando RealTrends, asegurando la satisfacción del cliente. Supervisé la facturación y la administración con Boxer Gestión, manteniendo un control riguroso de las finanzas. Resolví conflictos con clientes, diseñé contenido visual atractivo para publicaciones y reels en redes sociales. Implementé y monitoreé campañas publicitarias en MercadoAds, maximizando el retorno de inversión en publicidad. Desarrollador Web: Creé una landing page funcional y moderna para mejorar la presencia online del negocio. Tecnologías: HTML, CSS, Bootstrap, JavaScript."
+        "network": "GitHub",
+        "username": "giulibrumatti",
+        "url": "https://github.com/giulibrumatti"
       }
-    ],
-    "education": [{
+    ]
+  },
+  "work": [
+    {
+      "name": "HRissan",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "Mayo 2024",
+      "endDate": " - Actual",
+      "summary": "Desarrollo de una plataforma web informativa con Astro, optimizando su eficiencia y rendimiento. Además, participo en la implementación de una sección de formación on demand utilizando PostgreSQL, Express, React, Nodejs desarrollando un sistema completo de login y registro de usuarios. Modulos utilizados para autenticacion y validaciones de datos, como react-hook-form, zod, jsonwebtoken, axios."
+    },
+    {
+      "name": "Rombo del tejar",
+      "position": "Responsable E-Commerce MercadoLibre",
+      "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
+      "startDate": "Agosto 2022",
+      "endDate": " - Actual",
+      "summary": "Creación y edición de publicaciones. Atención y gestión de post-venta. Facturación. Resolución de conflictos. Diseño de publicaciones/reels en redes sociales. Gestión de publicidad en MercadoAds. Herramientas: RealTrends - Integraly - Canva - Boxer Gestión"
+    }
+  ],
+  "education": [
+    {
       "institution": "Universidad Nacional de Hurlingham",
       "url": "https://unahur.edu.ar/wp-content/uploads/2023/04/Tecnicatura-Universitaria-en-Programacion-1.pdf",
       "area": "Tecnicatura en programación",
@@ -79,115 +72,126 @@
       "url": "https://platzi.com/p/giulibrumatti97/curso/2467-frontend-developer/diploma/detalle/",
       "area": "Frontend Developer",
       "startDate": "2023",
-      "state": "Finalizado" 
+      "state": "Finalizado"
     },
     {
       "institution": "Educación IT",
       "url": "https://www.educacionit.com/perfil/giuliano-brumatti-969533/certificado/68572",
       "area": "Tester QA",
       "startDate": "2023",
-      "state": "Finalizado" 
+      "state": "Finalizado"
     }
-    ],
-    "skills": [
-      {
-        "name": "HTML"
-      },
-      {
-        "name": "CSS"
-      },
-      {
-        "name": "Boostrap"
-      },
-      {
-        "name": "Astro"
-      },
-      {
-        "name": "JavaScript"
-      },
-      {
-        "name": "Java (JSP-JPA)"
-      },
-      {
-        "name": "JUnit"
-      },
-      {
-        "name": "MySQL"
-      },
-      {
-        "name": "Git"
-      },
-      {
-        "name": "GitHub"
-      },
-      {
-        "name": "Python"
-      },
-      {
-        "name": "Tailwind"
-      },
-      {
-        "name": "JSON"
-      }
-    ],
-    "languages": [
-      {
-        "language": "Spanish",
-        "fluency": "Native speaker"
-      }
-    ],
-    "projects": [
-      {
-        "name": "Gestion de Billeteras y Transacciones",
-        "image": "",
-        "isActive": true,
-        "description": "Aplicación",
-        "highlights": [
-          "Java JSP", "Annotations en JPA", "MySQL", "Maven", "Apache Tomcat", "HTML", "CSS", "Boostrap"
-        ],
-        "url": "https://github.com/giulibrumatti/controldebilleteras"
-      },
-      {
-        "name": "Consultorio Odontológico",
-        "image": "",
-        "isActive": true,
-        "description": "Aplicación",
-        "highlights": [
-          "Java JSP", "Annotations en JPA", "MySQL", "Maven", "Apache Tomcat", "HTML", "CSS", "Boostrap"
-        ],
-        "url": "https://github.com/giulibrumatti/consultorioodontologico"
-      },
-      {
-        "name": "Guido Risso",
-        "image": "",
-        "isActive": true,
-        "description": "Sitio web personal",
-        "highlights": [
-          "HTML", "CSS", "Tailwind", "JavaScript", "Astro", "JSON"
-        ],
-        "url": "https://guidorissohr-web.vercel.app/"
-      },
-      {
-        "name": "Rombo del tejar",
-        "image": "/rombodeltejar.webp",
-        "isActive": true,
-        "description": "Landing Page",
-        "highlights": [
-          "HTML", "CSS", "Boostrap"
-        ],
-        "url": "https://rombodeltejar.vercel.app/"
-      },
-
-      {
-        "name": "HRissan",
-        "image": "/hrissan.webp",
-        "isActive": true,
-        "description": "Landing Page",
-        "highlights": [
-          "HTML", "CSS", "Boostrap", "JavaScript"
-        ],
-        "url": "https://www.hrissan.com.ar/"
-      }
-    ]  
-  }
-
+  ],
+  "skills": [
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Java (JSP-JPA)"
+    },
+    {
+      "name": "NodeJS"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Tailwind"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "HRissan",
+      "image": "/hrissan.webp",
+      "isActive": true,
+      "description": "Aplicación",
+      "highlights": [
+        "Astro",
+        "React",
+        "NodeJS",
+        "PostgreSQL",
+        "Express"
+      ],
+      "url": "https://www.hrissan.com.ar/"
+    },
+    {
+      "name": "Gestion de Billeteras y Transacciones",
+      "image": "",
+      "isActive": true,
+      "description": "Aplicación",
+      "highlights": [
+        "Java JSP",
+        "Annotations en JPA",
+        "MySQL",
+        "Maven",
+        "Apache Tomcat",
+        "HTML",
+        "CSS",
+        "Boostrap"
+      ],
+      "url": "https://github.com/giulibrumatti/controldebilleteras"
+    },
+    {
+      "name": "Consultorio Odontológico",
+      "image": "",
+      "isActive": true,
+      "description": "Aplicación",
+      "highlights": [
+        "Java JSP",
+        "Annotations en JPA",
+        "MySQL",
+        "Maven",
+        "Apache Tomcat",
+        "HTML",
+        "CSS",
+        "Boostrap"
+      ],
+      "url": "https://github.com/giulibrumatti/consultorioodontologico"
+    },
+    {
+      "name": "Guido Risso",
+      "image": "",
+      "isActive": true,
+      "description": "Sitio web personal",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "JavaScript",
+        "Astro",
+        "JSON"
+      ],
+      "url": "https://guidorissohr-web.vercel.app/"
+    },
+    {
+      "name": "Rombo del tejar",
+      "image": "/rombodeltejar.webp",
+      "isActive": true,
+      "description": "Landing Page",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "Boostrap"
+      ],
+      "url": "https://rombodeltejar.vercel.app/"
+    }
+  ]
+}
