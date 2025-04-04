@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Giuliano Nicolas Brumatti",
-    "label": "Software Developer",
+    "label": "Desarrollador Full-Stack",
     "image": "/logo.png",
     "email": "giulibrumatti97@gmail.com",
     "phone": "541135772893",
     "url": "",
-    "summary": "💻 Apasionado por la tecnología y en constante aprendizaje. Actualmente, me estoy formando en la Tecnicatura en Programación. Tengo conocimientos en Java y desarrollo web. Me motiva la resolución de problemas y la posibilidad de construir soluciones innovadoras a través del código. Creo que la clave del crecimiento profesional es la capacitación constante, por lo que siempre busco aprender nuevas tecnologías y aplicarlas en proyectos que me permitan desarrollar mis habilidades.",
+    "summary": "Hola, soy Giuli, desarrollador Full-Stack (JR), practicante de Brazilian JiuJitsu y estudiante de la licenciatura en informática, me gusta cocinar y participar en proyectos de programación que desafíen mis habilidades y conocimientos.",
     "location": {
       "address": "",
       "postalCode": "1682",
@@ -30,11 +30,11 @@
   "work": [
     {
       "name": "HRissan",
-      "position": "Software Developer",
+      "position": "Desarrollador Full-Stack",
       "url": "",
       "startDate": "Mayo 2024",
       "endDate": " - Actual",
-      "summary": "Desarrollo de una plataforma web informativa con Astro, optimizando su eficiencia y rendimiento. Además, participo en la implementación de una sección de formación on demand utilizando PostgreSQL, Express, React, Nodejs desarrollando un sistema completo de login y registro de usuarios. Modulos utilizados para autenticacion y validaciones de datos, como react-hook-form, zod, jsonwebtoken, axios."
+      "summary": "Desarrollo desde cero y creación de diseño. Desarrollo creando nuevas features y dando mantenimiento en aplicación web. "
     },
     {
       "name": "Rombo del tejar",
@@ -93,6 +93,18 @@
       "name": "Java (JSP-JPA)"
     },
     {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Maven"
+    },
+    {
+      "name": "Hibernate"
+    },
+    {
+      "name": "Junit"
+    },
+    {
       "name": "NodeJS"
     },
     {
@@ -100,6 +112,9 @@
     },
     {
       "name": "PostgreSQL"
+    },
+    {
+      "name": "Postman"
     },
     {
       "name": "Git"
