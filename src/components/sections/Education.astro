@@ -1,14 +1,14 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { education } from "@cv"
+import { education } from "@cv";
 ---
 
 <Section class="print-edu" title="Educación">
   <ul>
     {
       education.map(({ institution, startDate, state, area, url }) => {
-        const years = `${startDate} - ${state}`
+        const years = `${startDate} - ${state}`;
 
         return (
           <li>
@@ -22,16 +22,21 @@ import { education } from "@cv"
               </header>
 
               <footer>
-              <a class="underline hover:decoration-2" target="_blank" href={url}><p>{area}</p></a>
+                <a
+                  class="underline hover:decoration-2"
+                  target="_blank"
+                  href={url}
+                >
+                  <p>{area}</p>
+                </a>
               </footer>
             </article>
           </li>
-        )
+        );
       })
     }
   </ul>
 </Section>
-
 
 <style>
   ul {
@@ -68,7 +73,7 @@ import { education } from "@cv"
     ul {
       gap: 20px;
     }
-    footer a{
+    footer a {
       text-decoration: none;
     }
   }

@@ -1,97 +1,111 @@
 ---
 import { projects } from "@cv";
-import Section from '../Section.astro';
+import Section from "../Section.astro";
 import ProjectsPrint from "./ProjectsPrint.astro";
-import ProjectsPrint2 from "./ProjectsPrint.astro";
 ---
+
 <div class="no-print">
-<Section title="Proyectos">
+  <Section title="Proyectos">
     <ul>
-        {
-            projects.map(({ url, description, highlights, name, isActive }) => {
-                return (
-                    <li>
-                        <article>
-                            <header>
-                                <h3>
-                                    <a target="_blank" href={url} title={`Ver el proyecto ${name}`}>
-                                        {name}
-                                    </a>
-                                    {
-                                        isActive && <span>&bull;</span>
-                                    }
-                                </h3>
-                                <p>{description}</p>
-                            </header>
-                            <footer>
-                                {highlights.map((highlights) => {
-                                    return <span>{highlights}</span>
-                                })}   
-                            </footer>
-                        </article>    
-                    </li>
-                )
-            })
-        }
+      {
+        projects.map(
+          ({ url, description, highlights, name, isActive, video }) => {
+            return (
+              <li>
+                <article>
+                  <header>
+                    <h3>
+                      <a
+                        target="_blank"
+                        href={url}
+                        title={`Ver el proyecto ${name}`}
+                      >
+                        {name}
+                      </a>
+                      {isActive && <span>&bull;</span>}
+                    </h3>
+                    <p>{description}</p>
+                    {
+                      video &&
+                      <a
+                      target="_blank"
+                      href={video}
+                      title={`Ver el proyecto ${name}`}
+                    >
+                      <p>Video demostrativo</p>
+                    </a>
+
+                    }
+   
+                  </header>
+                  <footer>
+                    {highlights.map((highlights) => {
+                      return <span>{highlights}</span>;
+                    })}
+                  </footer>
+                </article>
+              </li>
+            );
+          }
+        )
+      }
     </ul>
-</Section>
+  </Section>
 </div>
-<ProjectsPrint></ProjectsPrint>
+<ProjectsPrint />
 
 <style>
-    ul {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 1rem;
-    }
+  ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
 
-    article {
-        border-radius: 8px;
-        border: 1px solid #b2acac;
-        gap: 16px;
-        display: flex;
-        flex-direction: column;
-        padding: 16px;
-        height: 100%;
-    }
+  article {
+    border-radius: 8px;
+    border: 1px solid #b2acac;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    height: 100%;
+  }
 
-    article header {
-        flex: 1;
-    }
+  article header {
+    flex: 1;
+  }
 
-    article a {
-        color: #111
-    }
+  article a {
+    color: #111;
+  }
 
-    article a:hover {
-        text-decoration: underline;
-        line-height: 1.2rem;
-        margin-bottom: 4px;
-    }
+  article a:hover {
+    text-decoration: underline;
+    line-height: 1.2rem;
+    margin-bottom: 4px;
+  }
 
-    article p {
-        font-size: 0.75rem;
+  article p {
+    font-size: 0.75rem;
+  }
 
-    }
+  article h3 span {
+    color: rgb(0, 188, 47);
+  }
 
-    article h3 span {
-        color: rgb(0, 188, 47);
-    }
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    font-size: 0.6rem;
+  }
 
-    footer {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 4px;
-        font-size: 0.6rem;
-    }
-
-    footer span {
-        border-radius: 6px;
-        background: #eee;
-        color: #444;
-        font-size: 0.8rem;
-        font-weight: 500;
-        padding: 0.2rem 0.6rem;
-    }
-    
+  footer span {
+    border-radius: 6px;
+    background: #eee;
+    color: #444;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 0.2rem 0.6rem;
+  }
 </style>

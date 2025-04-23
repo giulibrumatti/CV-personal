@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Giuliano Nicolas Brumatti",
-    "label": "Desarrollador Full-Stack",
+    "label": "Desarrollador Back-end",
     "image": "/logo.png",
     "email": "giulibrumatti97@gmail.com",
     "phone": "541135772893",
     "url": "",
-    "summary": "Hola, soy Giuli, desarrollador Full-Stack (JR), practicante de Brazilian JiuJitsu y estudiante de la licenciatura en informática, me gusta cocinar y participar en proyectos de programación que desafíen mis habilidades y conocimientos.",
+    "summary": "Hola, soy Giuli! Desarrollador Back-end, practicante de Brazilian JiuJitsu y estudiante de la licenciatura en informática, disfruto cocinar y trabajo sobre proyectos de programación que desafíen mi capacidad y conocimiento. He tenido experiencia en atención al cliente y venta e-commerce.",
     "location": {
       "address": "",
       "postalCode": "1682",
@@ -34,7 +34,7 @@
       "url": "",
       "startDate": "Mayo 2024",
       "endDate": " - Actual",
-      "summary": "Desarrollo desde cero y creación de diseño. Desarrollo creando nuevas features y dando mantenimiento en aplicación web. "
+      "summary": "Desarrollo desde cero y creación de diseño. Desarrollo creando nuevas features y dando mantenimiento en aplicación web. Utilizando principalmente: Nodejs, React, Tailwind, PostgreSQL, Express. Modulos utilizados para autenticacion y validaciones de datos, como react-hook-form, zod, jsonwebtoken, axios."
     },
     {
       "name": "Rombo del tejar",
@@ -42,7 +42,7 @@
       "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
       "startDate": "Agosto 2022",
       "endDate": " - Actual",
-      "summary": "Creación y edición de publicaciones. Atención y gestión de post-venta. Facturación. Resolución de conflictos. Diseño de publicaciones/reels en redes sociales. Gestión de publicidad en MercadoAds. Herramientas: RealTrends - Integraly - Canva - Boxer Gestión"
+      "summary": "Creación y optimización de publicaciones en MercadoLibre, aumentando la visibilidad y ventas del negocio. Gestioné la atención al cliente post-venta utilizando RealTrends. Supervisé la facturación y la administración con Boxer Gestión, manteniendo un control de las finanzas. Diseñé contenido visual atractivo para publicaciones y reels en redes sociales. Implementé y monitoreé campañas publicitarias en MercadoAds aumentando las ventas en un 30%.Optimicé la gestión de inventario, reduciendo errores en publicaciones en un 50%."
     }
   ],
   "education": [
@@ -84,28 +84,25 @@
   ],
   "skills": [
     {
-      "name": "Astro"
-    },
-    {
-      "name": "React"
-    },
-    {
-      "name": "Java (JSP-JPA)"
+      "name": "Java"
     },
     {
       "name": "Spring Boot"
-    },
-    {
-      "name": "Maven"
-    },
-    {
-      "name": "Hibernate"
     },
     {
       "name": "Junit"
     },
     {
       "name": "NodeJS"
+    },
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Tailwind"
     },
     {
       "name": "MySQL"
@@ -121,9 +118,6 @@
     },
     {
       "name": "GitHub"
-    },
-    {
-      "name": "Tailwind"
     }
   ],
   "languages": [
@@ -133,6 +127,48 @@
     }
   ],
   "projects": [
+    {
+      "name": "Bazar",
+      "image": "",
+      "isActive": true,
+      "description": "API REST",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Postman"
+      ],
+      "url": "https://github.com/giulibrumatti/apirest-bazar",
+      "video": null
+    },
+    {
+      "name": "Clínica Veterinaria",
+      "image": "",
+      "isActive": true,
+      "description": "API REST",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Postman"
+      ],
+      "url": "https://github.com/giulibrumatti/apirest_clinicaveterinaria",
+      "video": null
+    },
+    {
+      "name": "Estudiante Programación",
+      "image": "",
+      "isActive": true,
+      "description": "API REST",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Postman"
+      ],
+      "url": "https://github.com/giulibrumatti/apirest_estprogramacion",
+      "video": null
+    },
     {
       "name": "HRissan",
       "image": "/hrissan.webp",
@@ -145,7 +181,8 @@
         "PostgreSQL",
         "Express"
       ],
-      "url": "https://www.hrissan.com.ar/"
+      "url": "https://www.hrissan.com.ar/",
+      "video": null
     },
     {
       "name": "Gestion de Billeteras y Transacciones",
@@ -162,7 +199,8 @@
         "CSS",
         "Boostrap"
       ],
-      "url": "https://github.com/giulibrumatti/controldebilleteras"
+      "url": "https://github.com/giulibrumatti/controldebilleteras",
+      "video": "https://drive.google.com/file/d/1AA06RBFV9ItcHs8ErFzbr9sClIMz6FLN/view"
     },
     {
       "name": "Consultorio Odontológico",
@@ -179,13 +217,14 @@
         "CSS",
         "Boostrap"
       ],
-      "url": "https://github.com/giulibrumatti/consultorioodontologico"
+      "url": "https://github.com/giulibrumatti/consultorioodontologico",
+      "video": "https://drive.google.com/file/d/1o_tvHnGxQ3s5U_8Eg3DzfeHiep2bWFWD/view"
     },
     {
       "name": "Guido Risso",
       "image": "",
       "isActive": true,
-      "description": "Sitio web personal",
+      "description": "Landing Page",
       "highlights": [
         "HTML",
         "CSS",
@@ -194,7 +233,8 @@
         "Astro",
         "JSON"
       ],
-      "url": "https://guidorissohr-web.vercel.app/"
+      "url": "https://guidorisso.com.ar",
+      "video": null
     },
     {
       "name": "Rombo del tejar",
@@ -206,7 +246,8 @@
         "CSS",
         "Boostrap"
       ],
-      "url": "https://rombodeltejar.vercel.app/"
+      "url": "https://rombodeltejar.vercel.app/",
+      "video": null
     }
   ]
 }
