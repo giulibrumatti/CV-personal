@@ -6,7 +6,7 @@
     "email": "giulibrumatti97@gmail.com",
     "phone": "541135772893",
     "url": "",
-    "summary": "Hola, ¡soy Giuli! Desarrollador backend, practicante de Jiu-Jitsu y estudiante de informática. Disfruto cocinando y participando en proyectos de programación que ponen a prueba mis habilidades y amplían mis conocimientos. Tengo experiencia en el desarrollo de proyectos utilizando tecnologías que incluyen JSP para la integración de Java con HTML, JPA para mapeo de clases y persistencia de datos, operaciones CRUD integrales en bases de datos MySQL y desarrollo de API REST empleando Spring Boot. Además, tengo experiencia en atención al cliente y ventas de comercio electrónico, lo que subraya mi dedicación a la excelencia en el servicio y la creencia de que el éxito de nuestros clientes se correlaciona directamente con nuestro propio éxito. Me distingo por mi motivación, la capacidad de asumir riesgos de manera responsable, mi énfasis en la resolución de problemas y mi espíritu colaborativo. Mis acciones se basan en principios como la honestidad, el profesionalismo y la búsqueda constante de nuevos desafíos.",
+    "summary": "💻 Desarrollador backend en formación con orientación full stack, actualmente estudiando la Licenciatura en Informática en la Universidad Nacional de Hurlingham, con experiencia en desarrollo de aplicaciones web usando Java, Spring Boot, React, Node.js y bases de datos como PostgreSQL y MySQL. Vengo aplicando mis conocimientos en distintos proyectos reales: desde plataformas de cursos, sistemas de gestión de empleados y productos, hasta el desarrollo de redes simuladas para entornos como clínicas con múltiples sucursales. También realicé trabajos freelance, como el desarrollo completo de una plataforma educativa desde cero. Me interesa especialmente el backend y cómo se integran los distintos componentes de una aplicación. Disfruto mucho analizar cómo funcionan las cosas por dentro, buscar soluciones limpias y aprender nuevas tecnologías. Cada proyecto es una oportunidad para mejorar. En mi tiempo libre practico jiu-jitsu brasileño, una disciplina que me enseñó la importancia de la constancia, la paciencia y la capacidad de adaptación, valores que también aplico a la programación.🥋",
     "location": {
       "address": "",
       "postalCode": "1682",
@@ -30,19 +30,19 @@
   "work": [
     {
       "name": "HRissan",
-      "position": "Desarrollador Full-Stack",
+      "position": "Desarrollador Full-Stack - Freelance",
       "url": "",
       "startDate": "Mayo 2024",
       "endDate": " - Actual",
-      "summary": "Desarrollo desde cero y creación de diseño. Desarrollo creando nuevas features y dando mantenimiento en aplicación web. Utilizando principalmente: Nodejs, React, Tailwind, PostgreSQL, Express. Modulos utilizados para autenticacion y validaciones de datos, como react-hook-form, zod, jsonwebtoken, axios."
+      "summary": "Desarrollo completo de una plataforma de cursos desde cero. Implementación de funcionalidades de registro, login con autenticación y autorización por rol, y acceso a contenidos protegidos. Diseño del frontend con React y Tailwind CSS. Backend desarrollado con Node.js y Express, conexión a base de datos PostgreSQL. Uso de JWT, axios, react-hook-form para validaciones y seguridad. También desarrollé la landing page institucional del sitio."
     },
     {
       "name": "Rombo del tejar",
-      "position": "Responsable E-Commerce MercadoLibre",
+      "position": "Responsable de atención al cliente",
       "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
       "startDate": "Agosto 2022",
       "endDate": " - Actual",
-      "summary": "Creación y optimización de publicaciones en MercadoLibre, aumentando la visibilidad y ventas del negocio. Gestioné la atención al cliente post-venta utilizando RealTrends. Supervisé la facturación y la administración con Boxer Gestión, manteniendo un control de las finanzas. Diseñé contenido visual atractivo para publicaciones y reels en redes sociales. Implementé y monitoreé campañas publicitarias en MercadoAds aumentando las ventas en un 30%.Optimicé la gestión de inventario, reduciendo errores en publicaciones en un 50%."
+      "summary": "Optimicé publicaciones en MercadoLibre, mejorando visibilidad de productos y contribuyendo al aumento de ventas. Brindé atención integral al cliente en canales de pre y post venta, gestionando consultas, reclamos y devoluciones con herramientas como RealTrends y CyberMercado, manteniendo altos niveles de satisfacción. Administré la facturación y seguimiento financiero mediante Boxer Gestión, garantizando orden y precisión en la documentación. Diseñé contenido visual y publicitario para redes sociales y publicaciones, creando reels y piezas gráficas que impulsaron el engagement. Planifiqué y ejecuté campañas en MercadoAds, logrando un incremento del 10% en las ventas mensuales. Mejoré la gestión de inventario y control de publicaciones, reduciendo errores en un 50% mediante revisión periódica y automatización parcial del flujo de carga.Fortalecí la fidelización de clientes a través de un seguimiento activo post-venta y resolución eficaz de reclamos."
     }
   ],
   "education": [
@@ -134,16 +134,43 @@
     }
   ],
   "projects": [
-    {
-      "name": "Bazar",
+        {
+      "name": "App Productos",
       "image": "",
       "isActive": true,
-      "description": "API REST",
+      "description": "Frontend desarrollado con Node.js, Vue, React y Tailwind. API REST en Spring Boot. Funcionalidades CRUD de productos. Próxima funcionalidad: módulo de pedidos con lógica de carrito.",
       "highlights": [
         "Java",
         "Spring Boot",
         "MySQL",
-        "Postman"
+        "React", "Bootstrap"
+      ],
+      "url": "https://github.com/giulibrumatti/api-ecommerce",
+      "video": null
+    },
+    {
+      "name": "App Empleados",
+      "image": "",
+      "isActive": true,
+      "description": "Aplicación web con frontend en React y Bootstrap, y backend en Java Spring Boot. Permite listar, crear, editar y eliminar empleados mediante una API REST.",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "React", "Vue", "Tailwind"
+      ],
+      "url": "https://github.com/giulibrumatti/empleadito-spring",
+      "video": null
+    },
+    {
+      "name": "Api Bazar",
+      "image": "",
+      "isActive": true,
+      "description": "Backend desarrollado en Java Spring Boot, expone una API REST para ser consumida por una app web y mobile. Implementa CRUD de productos, clientes y ventas, consultas personalizadas (ventas por fecha, productos con bajo stock, venta más alta). Modelado orientado a objetos y uso de DTOs para exposición de datos.",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
       ],
       "url": "https://github.com/giulibrumatti/apirest-bazar",
       "video": null
@@ -180,7 +207,7 @@
       "name": "HRissan",
       "image": "/hrissan.webp",
       "isActive": true,
-      "description": "Aplicación",
+      "description": "Plataforma de cursos con frontend en React, backend en Node.js / Express, base de datos PostgreSQL. Diseño y desarrollo desde cero. Soporta login, registro y autorización para acceder a contenidos exclusivos. Tecnologías adicionales: Tailwind CSS, JWT, axios, react-hook-form.",
       "highlights": [
         "Astro",
         "React",
@@ -241,19 +268,6 @@
         "JSON"
       ],
       "url": "https://guidorisso.com.ar",
-      "video": null
-    },
-    {
-      "name": "Rombo del tejar",
-      "image": "/rombodeltejar.webp",
-      "isActive": true,
-      "description": "Landing Page",
-      "highlights": [
-        "HTML",
-        "CSS",
-        "Boostrap"
-      ],
-      "url": "https://rombodeltejar.vercel.app/",
       "video": null
     }
   ]
