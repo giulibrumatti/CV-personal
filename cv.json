@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Giuliano Nicolas Brumatti",
-    "label": "Desarrollador Back-end",
+    "label": "Desarrollador Backend",
     "image": "/logo.png",
     "email": "giulibrumatti97@gmail.com",
     "phone": "541135772893",
     "url": "",
-    "summary": "💻 Desarrollador backend en formación con orientación full stack, actualmente estudiando la Licenciatura en Informática en la Universidad Nacional de Hurlingham, con experiencia en desarrollo de aplicaciones web usando Java, Spring Boot, React, Node.js y bases de datos como PostgreSQL y MySQL. Vengo aplicando mis conocimientos en distintos proyectos reales: desde plataformas de cursos, sistemas de gestión de empleados y productos, hasta el desarrollo de redes simuladas para entornos como clínicas con múltiples sucursales. También realicé trabajos freelance, como el desarrollo completo de una plataforma educativa desde cero. Me interesa especialmente el backend y cómo se integran los distintos componentes de una aplicación. Disfruto mucho analizar cómo funcionan las cosas por dentro, buscar soluciones limpias y aprender nuevas tecnologías. Cada proyecto es una oportunidad para mejorar. En mi tiempo libre practico jiu-jitsu brasileño, una disciplina que me enseñó la importancia de la constancia, la paciencia y la capacidad de adaptación, valores que también aplico a la programación.🥋",
+    "summary": "💻 Trabajo en el backend de sistemas financieros que no pueden fallar. Actualmente en Lumina Americas, formo parte del equipo técnico que garantiza que cada versión llegue a producción a tiempo y sin errores críticos, resolviendo incidencias en Java y PL/SQL dentro de sprints pactados con el cliente. En el sector financiero, un bug no resuelto a tiempo no es un inconveniente, es un problema de negocio. Eso me enseñó a trabajar con precisión, bajo presión y con foco en el impacto real del código. Mi trayectoria no es la típica: antes de entrar al mundo del desarrollo estuve años en atención al cliente y gestión operativa. Eso me dio algo que muchos no tienen, entender el problema desde el lado del usuario, no solo desde el código.",
     "location": {
       "address": "",
-      "postalCode": "1682",
-      "city": "Villa Bosch",
+      "postalCode": "",
+      "city": "Buenos Aires",
       "countryCode": "AR",
       "region": "Argentina"
     },
@@ -28,65 +28,30 @@
     ]
   },
   "work": [
-    {
-      "name": "HRissan",
-      "position": "Desarrollador Full-Stack - Freelance",
+        {
+      "name": "Lumina Americas",
+      "position": "Desarrollador Java Backend",
       "url": "",
-      "startDate": "Mayo 2024",
-      "endDate": " - Actual",
-      "summary": "Desarrollo completo de una plataforma de cursos desde cero. Implementación de funcionalidades de registro, login con autenticación y autorización por rol, y acceso a contenidos protegidos. Diseño del frontend con React y Tailwind CSS. Backend desarrollado con Node.js y Express, conexión a base de datos PostgreSQL. Uso de JWT, axios, react-hook-form para validaciones y seguridad. También desarrollé la landing page institucional del sitio."
+      "startDate": "Septiembre 2024",
+      "endDate": "Actualidad",
+      "summary": "Formo parte del equipo técnico responsable de mantener y estabilizar sistemas críticos del sector financiero, asegurando que cada versión llegue a producción en tiempo y forma. • Resolución de bugs en sprints pactados con cliente bajo fechas comprometidas. • Desarrollo en Java y PL/SQL sobre sistemas de alta criticidad. • Trabajo con metodología ágil (Jira) en ciclos de entrega continuos. Stack: Java · PL/SQL ·"
     },
     {
-      "name": "Rombo del tejar",
-      "position": "Responsable de atención al cliente",
-      "url": "https://rombodeltejar-web-github-io-gbrumattis-projects.vercel.app/",
-      "startDate": "Agosto 2022",
-      "endDate": " - Actual",
-      "summary": "Optimicé publicaciones en MercadoLibre, mejorando visibilidad de productos y contribuyendo al aumento de ventas. Brindé atención integral al cliente en canales de pre y post venta, gestionando consultas, reclamos y devoluciones con herramientas como RealTrends y CyberMercado, manteniendo altos niveles de satisfacción. Administré la facturación y seguimiento financiero mediante Boxer Gestión, garantizando orden y precisión en la documentación. Diseñé contenido visual y publicitario para redes sociales y publicaciones, creando reels y piezas gráficas que impulsaron el engagement. Planifiqué y ejecuté campañas en MercadoAds, logrando un incremento del 10% en las ventas mensuales. Mejoré la gestión de inventario y control de publicaciones, reduciendo errores en un 50% mediante revisión periódica y automatización parcial del flujo de carga.Fortalecí la fidelización de clientes a través de un seguimiento activo post-venta y resolución eficaz de reclamos."
+      "name": "HRissan",
+      "position": "Desarrollador Full-Stack",
+      "url": "",
+      "startDate": "Mayo 2024",
+      "endDate": "Octubre 2025",
+      "summary": "Desarrollé desde cero una plataforma web de cursos para la empresa, trabajando de forma independiente en todas las capas del producto. • Implementé sistema de autenticación con control de acceso por roles y permisos. • Desarrollé lógica de visualización de cursos según perfil de usuario y estado de compra• Construí landing page institucional con presentación de la empresa, videos y links a perfiles LinkedIn de los CEOs. • Gestión completa: relevamiento, desarrollo, base de datos y entrega"
     }
   ],
   "education": [
     {
       "institution": "Universidad Nacional de Hurlingham",
       "url": "https://unahur.edu.ar/wp-content/uploads/2023/04/Tecnicatura-Universitaria-en-Programacion-1.pdf",
-      "area": "Tecnicatura en programación",
+      "area": "Licenciatura en informática",
       "startDate": "2022",
       "state": "En curso"
-    },
-    {
-      "institution": "TodoCode Academy",
-      "url": "https://drive.google.com/file/d/1UkFSRlPaw_SDSSdUez7PuujGX5pNFNiE/view?usp=sharing",
-      "area": "Desarrollo de APIs en Java con Spring Boot",
-      "startDate": "2025",
-      "state": "Finalizado"
-    },
-    {
-      "institution": "TodoCode Academy",
-      "url": "https://drive.google.com/file/d/1vIfFrF0OMnxoiDtdcR8QwIAAA3FTzvgZ/view?usp=sharing",
-      "area": "Programación Orientada Objetos con Java",
-      "startDate": "2024",
-      "state": "Finalizado"
-    },
-    {
-      "institution": "TodoCode Academy",
-      "url": "https://drive.google.com/file/d/1S5Dw1ff0OO39n0zEsun2QsC33iapGhr8/view?usp=sharing",
-      "area": "Introducción a las bases de datos - MySQL",
-      "startDate": "2023",
-      "state": "Finalizado"
-    },
-    {
-      "institution": "Platzi",
-      "url": "https://platzi.com/p/giulibrumatti97/curso/2467-frontend-developer/diploma/detalle/",
-      "area": "Frontend Developer",
-      "startDate": "2023",
-      "state": "Finalizado"
-    },
-    {
-      "institution": "Educación IT",
-      "url": "https://www.educacionit.com/perfil/giuliano-brumatti-969533/certificado/68572",
-      "area": "Tester QA",
-      "startDate": "2023",
-      "state": "Finalizado"
     }
   ],
   "skills": [
@@ -95,9 +60,6 @@
     },
     {
       "name": "Spring Boot"
-    },
-    {
-      "name": "Junit"
     },
     {
       "name": "NodeJS"
@@ -118,13 +80,7 @@
       "name": "PostgreSQL"
     },
     {
-      "name": "Postman"
-    },
-    {
       "name": "Git"
-    },
-    {
-      "name": "GitHub"
     }
   ],
   "languages": [
@@ -134,6 +90,20 @@
     }
   ],
   "projects": [
+            {
+      "name": "App Horas Extras",
+      "image": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "NodeJS",
+        "React",
+        "Vite",
+        "Tailwind", "Supabase", "PostgreSQL"
+      ],
+      "url": "https://horasextras-nu.vercel.app/",
+      "video": null
+        },
         {
       "name": "App Productos",
       "image": "",
