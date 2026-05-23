@@ -94,7 +94,7 @@
       "name": "App Horas Extras",
       "image": "",
       "isActive": true,
-      "description": "",
+      "description": "Aplicación web desarrollada para el control y seguimiento de horas extras de equipos de trabajo. Permite a las empleadas cargar sus horas, elegir entre canje por día libre o pago, y solicitar días libres desde su propio panel. El rol administrativo centraliza la aprobación de solicitudes, el seguimiento del banco de horas de cada empleada y el envío de novedades a RRHH.",
       "highlights": [
         "NodeJS",
         "React",
