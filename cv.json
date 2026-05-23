@@ -223,22 +223,6 @@
       ],
       "url": "https://github.com/giulibrumatti/consultorioodontologico",
       "video": "https://drive.google.com/file/d/1o_tvHnGxQ3s5U_8Eg3DzfeHiep2bWFWD/view"
-    },
-    {
-      "name": "Guido Risso",
-      "image": "",
-      "isActive": true,
-      "description": "Landing Page",
-      "highlights": [
-        "HTML",
-        "CSS",
-        "Tailwind",
-        "JavaScript",
-        "Astro",
-        "JSON"
-      ],
-      "url": "https://guidorisso.com.ar",
-      "video": null
     }
   ]
 }
